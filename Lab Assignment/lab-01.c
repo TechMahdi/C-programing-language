@@ -2,6 +2,6 @@
 int main()
 {
 // A C program that will print my name.
-printf("MD.Erman Alam\n");
+printf("MD.mahdi islam\n");
 return 0;
 }
